@@ -1,0 +1,200 @@
+.icondive{
+    background-color: rgb(88, 85, 85);
+    color: white;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding:3px ;
+}
+
+.logo{
+    background-color: rgb(88, 85, 85);
+    color: white;
+    width: 20px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding:15px ;
+    float: left;
+}
+.pull2right{
+    float:right;
+    margin-top: -27px;
+
+}
+.bline{
+    background-image: url(../img/line.PNG);
+    width: 100%;
+    height: 10px;
+    margin-top: 25px;
+}
+.slogn{
+    font-size: 10px;
+    color: #5b5959;
+    padding-top: 10px;
+}
+.blogtitle{
+    font-family: 'Anton', sans-serif;
+    font-size: 32px;
+    padding-top: 51px;
+}
+.blogdate{
+    font-family: 'Oswald', sans-serif;
+    color: #a5a5a5;
+    font-size: 13px;
+    padding-top: 9px;
+}
+.printicon{
+    float: left;
+    color: #a5a5a5;
+    font-family: 'Oswald', sans-serif;
+}
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 30px;
+  }
+  .restext{
+      padding-top: 20px;
+      color: #a5a5a5;
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+  .resbg{
+      background-image: url(../img/list-bg.png);
+      width: 100%;
+      display: block;
+      background-size: 100% 306px;
+      height: 306px;
+      background-repeat: no-repeat;
+      margin-top: 20px;
+  }
+  .checkl{
+      font-family: 'Patrick Hand', cursive;
+      padding-top: 43px;
+      font-size: 22px;
+      padding-left: 62px;
+      color: #6c6a6a;
+      float: left;
+      
+  }
+  .checkr{
+    font-family: 'Patrick Hand', cursive;
+    padding-top: 43px;
+    font-size: 22px;
+    color: #6c6a6a;
+    padding-left: 64%;
+}
+  
+    
+  #cbox1:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox2:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox3:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox4:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox5:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox6:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox7:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox8:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox9:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox10:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox11:checked + label {
+    text-decoration: line-through;
+  }
+  #cbox12:checked + label {
+    text-decoration: line-through;
+  }
+  
+  .commenter{
+      padding-top: 20px;
+  }
+  .profileimg{
+      height: 60px;
+      width: 60px;
+      float: left;
+  }
+  .profileusername{
+    color: #646161;
+    font-size: larger;
+    padding-left: 75px;
+    font-weight: bold;  
+  }
+  .comment{
+    color: #646161;
+    padding-left: 20px;
+    padding-top: 5px;
+    float: left;
+    width: 45%;
+  }
+  .sharebutton{
+    background-color: #bc7058;
+    color: #ffffff;
+    width: 170px;
+    height: 50px;
+    border: solid;
+    margin-left: 366px;
+  }
+
+  .footer-line {
+    padding-top:20px ;
+    height: 30px;
+    border-style: solid;
+    border-color:  rgb(175, 175, 175);
+    border-width: 1px 0 0 0;
+    
+  }
+  
+
+
+  .hr-theme-slash-2 {
+    display: flex;
+    padding-top: 40px;
+}
+    
+    .hr-line {
+      width: 100%;
+      position: relative;
+      margin: 15px;
+      border-bottom: 1px solid rgb(192, 192, 192);
+    }
+    .hr-icon {
+      position: relative;
+      top: 3px;
+      background-color:  rgb(175, 175, 175);
+    color: #ffffff;
+    }
+  .alhari-ele-ta7t{
+    text-align: center;
+    color: rgb(175, 175, 175);
+    padding-top: 10px;
+  }
